@@ -21,7 +21,7 @@
 ### Обучащие проекты 
 Проекты с теорией, помогают в обучении программированию. 
 1. [hello_git_1_level](https://github.com/alexterent/hello_git_1_level) - обучение основным командам для использования git + github
-
+2. [hello_docker_1_level](https://github.com/alexterent/hello_docker_1_level) - простое краткое руководство по созданию docker file, container и image.
 
 
 ### Проекты для тренировки
